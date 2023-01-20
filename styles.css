@@ -1,0 +1,91 @@
+body {
+  background-color: #282828;
+  color: #f8f8f2;
+  font-family: Helvetica, serif;
+}
+
+  .title_h1{
+    text-align: center;
+  }
+
+  .p_1{
+    text-align: center;
+  }
+
+  .p_2{
+    text-align: center;
+    font-size: 1em
+  }
+
+  .boxes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2.5em
+  }
+
+  .outputclass{
+    text-align: center;
+    margin: 1em
+  }
+
+  .boxes_logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1em
+  }
+
+  .boxes_p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #332f2d;
+  }
+
+  .boxsimple{
+    background-color: #282828;
+  }
+
+textarea {
+  background-color: #3c3836;
+  color: #f8f8f2;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  width: 80%;
+}
+
+button {
+  background-color: #458588;
+  color: #f8f8f2;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #689d6a;
+}
+
+ a{
+   color: #458588;
+ }
+
+ a:hover{
+   color: #689d6a;
+ }
+
+ .box_p{
+   width: 60em;
+ }
+
+ .box_space{
+   padding-top: 8em
+ }
+
+#output {
+  font-size: 18px;
+  margin-top: 20px;
+}
